@@ -1,0 +1,2 @@
+class ProfileTrack < ApplicationRecord
+end

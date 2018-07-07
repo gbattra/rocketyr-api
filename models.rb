@@ -7,14 +7,43 @@ track: {
 	runtime:
 	share_count
 	track_art_url:
-	rank_id:
+	track_rank_id:
+}
+
+track_rank_id: {
+	id:
+	label:
+	icon:
+	descri
 }
 
 author_profile: {
 	id:
 	user: belongs_to
-	profile_tracks: has_many
+	tracks: has_many
 	albums: has_many
+	bio:
+}
+
+album: {
+	id:
+	author_profile_id:
+	name:
+	album_art_url:
+	genre:
+	color:
+	tracks: has_many
+}
+
+genre: {
+	id:
+	label:
+	icon:
+}
+
+location: {
+	id:
+	label:
 }
 
 user: {
@@ -24,10 +53,9 @@ user: {
 	birthday:
 	location_id:
 	profile_img_url:
-	bio:
 	author_profile_id:
-	feeds:
-	playlists:
+	feeds: has_many
+	playlists: has_many
 }
 
 feed: {
@@ -53,7 +81,7 @@ playlist: {
 	playlist_art_url:
 	created_by_id:
 	name:
-	tracks:
+	tracks: has_many
 }
 
 feed_track: {

@@ -2,12 +2,16 @@
 
 one:
   title: MyString
-  author_id: 
-  runtime: 
+  author_profile_id: 1
+  runtime: 1
+  share_count: 1
   track_art_url: MyString
+  track_rank_id: 1
 
 two:
   title: MyString
-  author_id: 
-  runtime: 
+  author_profile_id: 1
+  runtime: 1
+  share_count: 1
   track_art_url: MyString
+  track_rank_id: 1

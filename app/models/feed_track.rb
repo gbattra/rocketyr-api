@@ -1,0 +1,2 @@
+class FeedTrack < ApplicationRecord
+end
