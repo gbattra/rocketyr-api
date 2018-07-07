@@ -1,0 +1,2 @@
+class FeedFilter < ApplicationRecord
+end
