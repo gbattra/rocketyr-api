@@ -2,11 +2,11 @@ class FeedsController < ApplicationController
   before_action :set_feed, only: [:show, :update, :destroy]
 
   # GET /feeds
-  def index
-    @feeds = Feed.all
-
-    render json: @feeds
-  end
+  # def index
+  #   @feeds = Feed.all
+  #
+  #   render json: @feeds
+  # end
 
   # GET /feeds/1
   def show
