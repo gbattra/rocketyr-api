@@ -1,3 +1,3 @@
 class Genre < ApplicationRecord
-  has_one :icon
+  belongs_to :icon
 end

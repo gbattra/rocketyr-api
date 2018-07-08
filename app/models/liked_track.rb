@@ -1,4 +1,4 @@
 class LikedTrack < ApplicationRecord
   belongs_to :feed
-  has_one :track
+  belongs_to :track
 end

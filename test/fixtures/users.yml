@@ -1,17 +1,15 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
+user_one:
   first_name: MyString
   last_name: MyString
   birthday: 2018-07-06 20:22:42
-  location_id: 1
-  profile_image_url: MyString
-  author_profile_id: 1
+  location_id: location_one
+  profile_image_url: https://www.masimas.com/sites/default/files/olmos_8.jpg
 
-two:
+user_two:
   first_name: MyString
   last_name: MyString
   birthday: 2018-07-06 20:22:42
-  location_id: 1
-  profile_image_url: MyString
-  author_profile_id: 1
+  location_id: location_one
+  profile_image_url: https://www.masimas.com/sites/default/files/olmos_8.jpg

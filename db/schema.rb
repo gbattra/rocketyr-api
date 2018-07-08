@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2018_07_08_162356) do
+ActiveRecord::Schema.define(version: 2018_07_08_171324) do
 
   create_table "albums", force: :cascade do |t|
     t.integer "author_profile_id"
@@ -138,7 +138,6 @@ ActiveRecord::Schema.define(version: 2018_07_08_162356) do
     t.datetime "birthday"
     t.integer "location_id"
     t.string "profile_image_url"
-    t.integer "author_profile_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end

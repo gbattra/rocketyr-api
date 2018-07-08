@@ -1,13 +1,13 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
+feed_filter_one:
   key: MyString
   label: MyString
-  value: 
-  options: 
+  value:
+  options:
 
-two:
+feed_filter_two:
   key: MyString
   label: MyString
-  value: 
-  options: 
+  value:
+  options:

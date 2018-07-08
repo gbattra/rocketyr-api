@@ -1,15 +1,15 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  author_profile_id: 1
+album_one:
+  author_profile: author_profile_one
   name: MyString
-  album_art_url: MyString
-  genre_id: 1
+  album_art_url: https://i.pinimg.com/736x/02/05/11/020511bede2858a41c5bb3b646337a68--album-art-design-album-covers-design.jpg
+  genre: genre_one
   color: MyString
 
-two:
-  author_profile_id: 1
+album_two:
+  author_profile: author_profile_one
   name: MyString
-  album_art_url: MyString
-  genre_id: 1
+  album_art_url: https://i.pinimg.com/736x/02/05/11/020511bede2858a41c5bb3b646337a68--album-art-design-album-covers-design.jpg
+  genre: genre_two
   color: MyString

@@ -1,11 +1,11 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
+track_rank_one:
   label: MyString
   icon: MyString
-  threshold: 1
+  threshold: 100
 
-two:
+track_rank_two:
   label: MyString
   icon: MyString
-  threshold: 1
+  threshold: 10000

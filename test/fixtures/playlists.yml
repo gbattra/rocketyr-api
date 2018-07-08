@@ -1,11 +1,11 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
+playlists_one:
   name: MyString
-  playlist_art_url: MyString
-  author_id: 1
+  playlist_art_url: https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/924faf52097223.590463d34792e.jpg
+  author: author_profile_one
 
-two:
+playlists_two:
   name: MyString
-  playlist_art_url: MyString
-  author_id: 1
+  playlist_art_url: https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/924faf52097223.590463d34792e.jpg
+  author: author_profile_one

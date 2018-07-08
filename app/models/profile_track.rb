@@ -1,4 +1,4 @@
 class ProfileTrack < ApplicationRecord
   belongs_to :author_profile
-  has_one :track
+  belongs_to :track
 end

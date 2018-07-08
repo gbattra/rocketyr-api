@@ -1,5 +1,5 @@
 class Feed < ApplicationRecord
   belongs_to :user
-  has_one :icon
+  belongs_to :icon
   has_many :liked_tracks
 end
