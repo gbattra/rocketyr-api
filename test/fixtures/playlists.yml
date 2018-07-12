@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+playlists_one:
+  name: MyString
+  playlist_art_url: https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/924faf52097223.590463d34792e.jpg
+  author: author_profile_one
+
+playlists_two:
+  name: MyString
+  playlist_art_url: https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/924faf52097223.590463d34792e.jpg
+  author: author_profile_one

@@ -1,0 +1,2 @@
+class TrackRank < ApplicationRecord
+end

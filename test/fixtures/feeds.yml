@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+feed_one:
+  user: user_one
+  name: MyString
+  icon: icon_one
+  color: MyString
+
+feed_two:
+  user: user_one
+  name: MyString
+  icon: icon_two
+  color: MyString

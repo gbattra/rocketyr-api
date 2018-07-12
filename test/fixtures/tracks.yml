@@ -1,13 +1,17 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
+track_one:
   title: MyString
-  author_id: 
-  runtime: 
-  track_art_url: MyString
+  author_profile: author_profile_one
+  runtime: 1
+  share_count: 1
+  track_art_url: https://blog.spoongraphics.co.uk/wp-content/uploads/2017/album-art/22.jpg
+  track_rank: track_rank_one
 
-two:
+track_two:
   title: MyString
-  author_id: 
-  runtime: 
-  track_art_url: MyString
+  author_profile: author_profile_one
+  runtime: 1
+  share_count: 1
+  track_art_url: https://blog.spoongraphics.co.uk/wp-content/uploads/2017/album-art/22.jpg
+  track_rank: track_rank_two

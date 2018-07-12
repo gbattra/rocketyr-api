@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+author_profile_one:
+  user: user_one
+  bio: MyString
+
+author_profile_two:
+  user: user_one
+  bio: MyString

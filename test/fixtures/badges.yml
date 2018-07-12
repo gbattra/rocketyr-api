@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+badge_one:
+  name: MyString
+  icon: MyString
+  label: MyString
+  value: MyString
+  description: MyString
+
+badge_two:
+  name: MyString
+  icon: MyString
+  label: MyString
+  value: MyString
+  description: MyString

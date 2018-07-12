@@ -1,13 +1,11 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-feed_filter_one:
-  key: MyString
+track_rank_one:
   label: MyString
-  value:
-  options:
+  icon: MyString
+  threshold: 100
 
-feed_filter_two:
-  key: MyString
+track_rank_two:
   label: MyString
-  value:
-  options:
+  icon: MyString
+  threshold: 10000

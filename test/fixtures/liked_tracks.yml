@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+liked_track_one:
+  feed: feed_one
+  track: track_one
+
+liked_track_two:
+  feed: feed_one
+  track: track_two
