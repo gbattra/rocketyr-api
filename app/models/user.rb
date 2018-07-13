@@ -9,4 +9,8 @@ class User < ApplicationRecord
   has_many :tracks, :through => :author_profile
   has_many :albums, :through => :author_profile
   has_many :feeds
+
+  before_save -> { skip_confirmation! }
+
+  
 end
